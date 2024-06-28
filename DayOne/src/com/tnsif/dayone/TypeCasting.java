@@ -6,6 +6,7 @@ public class TypeCasting {
 
 		//widening  / implicit type casting
 		
+		
 		byte b= 10;
 		int l= b;
 		System.out.println(l);
