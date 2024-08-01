@@ -13,6 +13,11 @@ public class ArrayClassDemo {
 		//print the array 
 		
 		System.out.println(Arrays.toString(intArr));
+		/*[69, 20, 12, 40, 35] 2*1 =2
+		 *[69, 20, 12, 40, 35] 
+		 *[69, 20, 12, 40, 35] 
+		 */
+		
 		for( int i=0; i<intArr.length; i++)
 		{
 			System.out.print(intArr[i] + " ");
